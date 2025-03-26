@@ -1,0 +1,35 @@
+body{
+    font-family: 'Poppins',sans-serif;
+    color:#4a4a4a;
+    background: linear-gradient(to bottom,#faf3e0, #f0d9c3);
+}
+h1{
+    font-family: 'Roboto Slab', serif;
+}
+img{
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+.header{
+
+padding: 10px;
+
+}
+.navigation{
+    background-color: #d2691e;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.navigation a {
+    text-decoration: none;
+    margin: 0 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:#fff;
+}
+main{
+    margin:20px;
+    padding: 15px;
+}
+#paragraph{
+    font-family: "Dancing+Script",cursive;
+}
